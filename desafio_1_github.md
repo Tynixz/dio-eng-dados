@@ -25,8 +25,8 @@ Formada em Gestão Financeira com Pós em Ciência de Dados, já passei pelas fu
 
 ### Meus Principais Desafios de Projeto DIO
 
-[![Repo DIO_GEN_IA_DADOS](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://https://github.com/Tynixz/DIO_GEN_AI_DADOS)
-[![Repo Agente Financeiro](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://https://github.com/Tynixz/dio-lab-bia-do-futuro)
+[![Repo DIO_GEN_IA_DADOS](https://https://github.com/Tynixz/DIO_GEN_AI_DADOS)
+[![Repo Agente Financeiro](https://https://github.com/Tynixz/dio-lab-bia-do-futuro)
 
 ### Meu Artigo na DIO
 
@@ -50,3 +50,4 @@ Formada em Gestão Financeira com Pós em Ciência de Dados, já passei pelas fu
     </tr>
 
     
+
